@@ -1,5 +1,5 @@
 package com.epam.git;
 
 public class Repo {
-    public static String REPO_LINK = "https://github.com/giotsintsadze/taskgit";
+    public static String REPO_LINK = "https://github.com/giotsintsadze/gitTask2";
 }
